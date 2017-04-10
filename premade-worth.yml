@@ -62,11 +62,11 @@ worth:
     '0': 61.41
   lavabucket:
     '0': 62.28
-  redstone:     #+witch drop
+  redstone: #+witch drop
     '0': 3.3
-  glowstonedust:#+witch drop  
+  glowstonedust: #+witch drop  
     '0': 8.8
-  snowball:     #+snowgolem drop
+  snowball: #+snowgolem drop
     '0': 1.1
   clay:
     '0': 3.3
