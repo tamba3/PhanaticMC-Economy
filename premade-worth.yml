@@ -1,4 +1,5 @@
 worth:
+##### start of block drops
   stone:
     '0': 2.31
     '1': 1.1
@@ -12,13 +13,143 @@ worth:
     '2': 2.75
   cobblestone:
     '0': 1.1
-  wood:
+  gravel:
+    '0': 0.55
+  sponge:
+    '0': 12.71
+    '1': 11.0
+  mossycobblestone:
+    '0': 6.93
+  ice:
+    '0': 7.7
+  clayball:
+    '0': 13.86
+  soulsand:
+    '0': 11.0
+  mycel:
+    '0': 11.0
+  waterlily:
+    '0': 3.3
+  enderstone:
+    '0': 11.0
+  packedice:
+    '0': 16.5
+  coal:#charcoal smeltable from logs
+    '0': 8.8
+    '1': 12.71
+  sand:
+    '0': 0.55
+    '1': 1.65
+  glass:#smelted from sand    
+    '0': 1.73
+  netherrack:
+    '0': 5.5
+  netherbrickitem:#smelted from netherrack
+    '0': 6.93
+  ironingot:#smelted from ore(ore is not sellable)
+    '0': 18.48
+  goldingot:#smelted from ore(ore is not sellable)
+    '0': 58.91
+  diamond:
+    '0': 550.0
+  emerald:
+    '0': 55.0
+  quartz:
+    '0': 19.25
+  flint:
+    '0': 0.55
+  waterbucket:
+    '0': 61.41
+  lavabucket:
+    '0': 62.28
+  redstone:     #+witch drop
+    '0': 3.3
+  glowstonedust:#+witch drop  
+    '0': 8.8
+  snowball:     #+snowgolem drop
+    '0': 1.1
+  clay:
+    '0': 3.3
+##### end of block drops
+#
+##### start of mob drops
+  pork:
+    '0': 4.4
+  grilledpork:#smelted from pork
+    '0': 5.78
+  rawfish:
+    '0': 3.3
+    '1': 3.58
+    '2': 1.65
+    '3': 5.5
+  cookedfish:#smelted from fish
+    '0': 4.62
+    '1': 4.91
+  rabbit:
+    '0': 1.65
+  cookedrabbit:#smelted from rabbit
     '0': 2.89
-    '1': 2.89
-    '2': 2.89
-    '3': 2.89
-    '4': 2.89
-    '5': 2.89
+  rawbeef:
+    '0': 5.5
+  cookedbeef:#smelted from beef
+    '0': 6.93
+  rawchicken:
+    '0': 2.75
+  cookedchicken:#smelted from chicken
+    '0': 4.04
+  wool:
+    '0': 5.5
+  mutton:
+    '0': 1.1
+  cookedmutton:#smelted from mutton
+    '0': 2.31
+  milkbucket:
+    '0': 61.7
+  string:
+    '0': 1.65
+  feather:
+    '0': 0.55
+  sulphur:
+    '0': 11.0
+  leather:
+    '0': 5.25
+  slimeball:
+    '0': 11.0
+  egg:
+    '0': 0.55
+  bone:
+    '0': 5.5
+  rottenflesh:
+    '0': 1.1
+  enderpearl:
+    '0': 55.0
+  blazerod:
+    '0': 110.0
+  ghasttear:
+    '0': 82.5
+  spidereye:
+    '0': 3.3
+  prismarineeshard:
+    '0': 5.5
+  prismarinecrystals:
+    '0': 8.25
+  rabbitfoot:
+    '0': 22.0
+  netherstar:
+    '0': 275.0
+##### end of mob drops
+#
+##### start of growable items
+  potatoitem:
+    '0': 0.55
+  bakedpotato:#smelted from potato
+    '0': 1.73
+  carrotitem:#+rare zombie drop
+    '0': 0.83
+  chorusfruit:
+    '0': 5.5
+  chorusfruitpopped:#smelted from chorusfruit
+    '0': 6.93
   sapling:
     '0': 5.5
     '1': 5.5
@@ -26,11 +157,6 @@ worth:
     '3': 5.5
     '4': 5.5
     '5': 5.5
-  sand:
-    '0': 0.55
-    '1': 1.65
-  gravel:
-    '0': 0.55
   log:
     '0': 11.0
     '1': 11.0
@@ -51,20 +177,13 @@ worth:
   leaves2:
     '0': 2.2
     '1': 2.2
-  sponge:
-    '0': 12.71
-    '1': 11.0
-  glass:
-    '0': 1.73
-  web:
-    '0': 2.48
+  apple:
+    '0': 3.3
   longgrass:
     '1': 0.01
     '2': 0.01
   deadbush:
     '0': 0.01
-  wool:
-    '0': 5.5
   yellowflower:
     '0': 1.32
   redrose:
@@ -77,46 +196,6 @@ worth:
     '6': 1.93
     '7': 1.93
     '8': 1.65
-  brownmushroom:
-    '0': 1.1
-  redmushroom:
-    '0': 1.1
-  mossycobblestone:
-    '0': 6.93
-  ice:
-    '0': 7.7
-  cactus:
-    '0': 5.5
-  clayball:
-    '0': 13.86
-  pumpkin:
-    '0': 11.0
-  netherrack:
-    '0': 5.5
-  soulsand:
-    '0': 11.0
-  glowstone:
-    '0': 36.96
-  jackolantern:
-    '0': 14.39
-  hugemushroom1:
-    '0': 2.2
-  hugemushroom2:
-    '0': 2.2
-  melonblock:
-    '0': 15.59
-  vine:
-    '0': 5.5
-  mycel:
-    '0': 11.0
-  waterlily:
-    '0': 3.3
-  netherbrickitem:
-    '0': 6.93
-  enderstone:
-    '0': 11.0
-  packedice:
-    '0': 16.5
   doubleplant:
     '0': 3.3
     '1': 2.75
@@ -124,70 +203,44 @@ worth:
     '3': 0.01
     '4': 1.1
     '5': 1.1
+  brownmushroom:
+    '0': 1.1
+  redmushroom:
+    '0': 1.1
+  cactus:
+    '0': 5.5
+  pumpkinseeds:
+    '0': 16.5
+  pumpkin:
+    '0': 11.0
+  hugemushroom1:
+    '0': 2.2
+  hugemushroom2:
+    '0': 2.2
+  melonseeds:
+    '0': 16.5
+  melon:
+    '0': 1.65
+  vine:
+    '0': 5.5
+  sugarcane:
+    '0': 0.55
   chorusflower:
     '0': 27.5
-  apple:
-    '0': 3.3
-  coal:
-    '0': 8.8
-    '1': 12.71
-  diamond:
-    '0': 550.0
-  ironingot:
-    '0': 18.48
-  goldingot:
-    '0': 58.91
-  stick:
-    '0': 1.52
-  string:
-    '0': 1.65
-  feather:
-    '0': 0.55
-  sulphur:
-    '0': 11.0
+  netherstalk:
+    '0': 16.5
   seeds:
     '0': 1.1
   wheat:
     '0': 3.3
-  flint:
-    '0': 0.55
-  pork:
-    '0': 4.4
-  grilledpork:
-    '0': 5.78
-  waterbucket:
-    '0': 61.41
-  lavabucket:
-    '0': 62.28
-  redstone:
-    '0': 3.3
-  snowball:
-    '0': 1.1
-  leather:
-    '0': 5.25
-  milkbucket:
-    '0': 61.7
-  clay:
-    '0': 3.3
-  sugarcane:
-    '0': 0.55
-  paper:
-    '0': 0.58
-  slimeball:
-    '0': 11.0
-  egg:
-    '0': 0.55
-  glowstonedust:
-    '0': 8.8
-  rawfish:
-    '0': 3.3
-    '1': 3.58
-    '2': 1.65
-    '3': 5.5
-  cookedfish:
-    '0': 4.62
-    '1': 4.91
-  inksack:
+  beetroot:
+    '0': 0.66
+  beetrootseeds:
+    '0': 0.22
+##### end of growable items
+#
+##### start of special items
+  inksack:# some are craftbables
     '0': 3.3
     '1': 0.58
     '2': 6.93
@@ -204,81 +257,8 @@ worth:
     '13': 1.76
     '14': 0.61
     '15': 1.93
-  bone:
-    '0': 5.5
-  sugar:
-    '0': 0.58
-  melon:
-    '0': 1.65
-  pumpkinseeds:
-    '0': 16.5
-  melonseeds:
-    '0': 16.5
-  rawbeef:
-    '0': 5.5
-  cookedbeef:
-    '0': 6.93
-  rawchicken:
-    '0': 2.75
-  cookedchicken:
-    '0': 4.04
-  rottenflesh:
-    '0': 1.1
-  enderpearl:
-    '0': 55.0
-  blazerod:
-    '0': 110.0
-  ghasttear:
-    '0': 82.5
-  netherstalk:
-    '0': 16.5
-  spidereye:
-    '0': 3.3
   expbottle:
     '0': 385.0
-  emerald:
-    '0': 55.0
-  carrotitem:
-    '0': 0.83
-  potatoitem:
-    '0': 0.55
-  bakedpotato:
-    '0': 1.73
-  poisonouspotato:
-    '0': 0.28
-  skullitem:
-    '0': 5000.0
-    '1': 15000.0
-    '2': 5000.0
-    '3': 5000.0
-    '4': 5000.0
-    '5': 25000.0
-  netherstar:
-    '0': 275.0
-  quartz:
-    '0': 19.25
-  prismarineeshard:
-    '0': 5.5
-  prismarinecrystals:
-    '0': 8.25
-  rabbit:
-    '0': 1.65
-  cookedrabbit:
-    '0': 2.89
-  rabbitfoot:
-    '0': 22.0
-  mutton:
-    '0': 1.1
-  cookedmutton:
-    '0': 2.31
-  chorusfruit:
-    '0': 5.5
-  chorusfruitpopped:
-    '0': 6.93
-  beetroot:
-    '0': 0.66
-  beetrootseeds:
-    '0': 0.22
   dragonsbreath:
     '0': 110.0
   goldrecord:
@@ -303,8 +283,11 @@ worth:
     '0': 132.0
   record11:
     '0': 132.0
-  record12:
+  record12:        
     '0': 132.0
+##### end of special items
+#
+##### brewable items
   potion:
     '0': 20.0
     '16': 19.33
