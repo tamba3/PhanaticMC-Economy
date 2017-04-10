@@ -34,21 +34,21 @@ worth:
     '0': 11.0
   packedice:
     '0': 16.5
-  coal:#charcoal smeltable from logs
+  coal: #charcoal smeltable from logs
     '0': 8.8
     '1': 12.71
   sand:
     '0': 0.55
     '1': 1.65
-  glass:#smelted from sand    
+  glass: #smelted from sand    
     '0': 1.73
   netherrack:
     '0': 5.5
-  netherbrickitem:#smelted from netherrack
+  netherbrickitem: #smelted from netherrack
     '0': 6.93
-  ironingot:#smelted from ore(ore is not sellable)
+  ironingot: #smelted from ore(ore is not sellable)
     '0': 18.48
-  goldingot:#smelted from ore(ore is not sellable)
+  goldingot: #smelted from ore(ore is not sellable)
     '0': 58.91
   diamond:
     '0': 550.0
@@ -75,33 +75,33 @@ worth:
 ##### start of mob drops
   pork:
     '0': 4.4
-  grilledpork:#smelted from pork
+  grilledpork: #smelted from pork
     '0': 5.78
   rawfish:
     '0': 3.3
     '1': 3.58
     '2': 1.65
     '3': 5.5
-  cookedfish:#smelted from fish
+  cookedfish: #smelted from fish
     '0': 4.62
     '1': 4.91
   rabbit:
     '0': 1.65
-  cookedrabbit:#smelted from rabbit
+  cookedrabbit: #smelted from rabbit
     '0': 2.89
   rawbeef:
     '0': 5.5
-  cookedbeef:#smelted from beef
+  cookedbeef: #smelted from beef
     '0': 6.93
   rawchicken:
     '0': 2.75
-  cookedchicken:#smelted from chicken
+  cookedchicken: #smelted from chicken
     '0': 4.04
   wool:
     '0': 5.5
   mutton:
     '0': 1.1
-  cookedmutton:#smelted from mutton
+  cookedmutton: #smelted from mutton
     '0': 2.31
   milkbucket:
     '0': 61.7
@@ -142,13 +142,13 @@ worth:
 ##### start of growable items
   potatoitem:
     '0': 0.55
-  bakedpotato:#smelted from potato
+  bakedpotato: #smelted from potato
     '0': 1.73
-  carrotitem:#+rare zombie drop
+  carrotitem: #+rare zombie drop
     '0': 0.83
   chorusfruit:
     '0': 5.5
-  chorusfruitpopped:#smelted from chorusfruit
+  chorusfruitpopped: #smelted from chorusfruit
     '0': 6.93
   sapling:
     '0': 5.5
@@ -240,7 +240,7 @@ worth:
 ##### end of growable items
 #
 ##### start of special items
-  inksack:# some are craftbables
+  inksack: #some are craftbables
     '0': 3.3
     '1': 0.58
     '2': 6.93
