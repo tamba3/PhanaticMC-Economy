@@ -66,6 +66,20 @@ worth:
     '0': 1.1
   clay:
     '0': 3.3
+  obsidian:
+    '0': 43
+  coalblock:
+    '0': 43
+  ironblock:
+    '0': 43
+  goldblock:
+    '0': 43
+  diamondblock:
+    '0': 43
+  emeraldblock:
+    '0': 43
+  redstoneblock:
+    '0': 43
 ##### end of block drops
 #
 ##### start of mob drops
@@ -99,8 +113,6 @@ worth:
     '0': 1.1
   cookedmutton: #smelted from mutton
     '0': 2.31
-  milkbucket:
-    '0': 61.7
   string:
     '0': 1.65
   feather:
@@ -131,8 +143,6 @@ worth:
     '0': 8.25
   rabbitfoot:
     '0': 22.0
-  netherstar:
-    '0': 275.0
 ##### end of mob drops
 #
 ##### start of growable items
@@ -282,6 +292,8 @@ worth:
   record12:        
     '0': 132.0
   hopper:
+    '0': 122.49
+  beacon:
     '0': 122.49
 ##### end of special items
 #
