@@ -48,7 +48,7 @@ worth:
     '0': 58
   diamond:
     '0': 550
-  emerald:
+  emerald: #also vindicator drop
     '0': 55
   quartz:
     '0': 19
@@ -288,6 +288,49 @@ worth:
     '0': 122
   beacon:
     '0': 122
+  spawner: #dont appear to actually work with /sell but here for reference
+    '90': 50000 #pig
+    '50': 400000 #creeper
+    '51': 95000 #skeleton
+    '52': 75000 #spider
+    '54': 90000 #zombie
+    '55': 1000000 #slime
+    '57': 500000 #zombiepigman
+    '58': 325000 #enderman
+    '59': 75000 #cave spider
+    '61': 275000 #blaze
+    '68': 75000 #guardian
+    '91': 50000 #sheep
+    '92': 75000 #cow
+    '93': 65000 #chicken
+    '95': 75000 #wolf
+    '120': -1 #villager
+    '103': -1 #llama
+    '102': -1 #polar bear
+    '101': -1 #rabbit
+    '100': -1 #horse
+    '99': -1 #irongolem
+    '98': -1 #ocelot
+    '97': -1 #snowman
+    '96': -1 #mooshroom
+    '94': -1 #squid
+    '60': -1 #silverfish
+    '62': -1 #magma cube
+    '65': -1 #bat
+    '66': -1 #witch
+    '67': -1 #endermite
+    '69': -1 #shulker
+    '4': -1 #elder guardian
+    '5': -1 #wither skeleton
+    '6': -1 #stray
+    '23': -1 #husk
+    '35': -1 #vex
+    '36': -1 #vindicator
+    '27': -1 #zombie villager
+    '28': -1 #skeleton horse
+    '29': -1 #zombie horse
+    '31': -1 #donkey
+    '32': -1 #mule
 ##### end of special items
 #
 ##### brewable items
