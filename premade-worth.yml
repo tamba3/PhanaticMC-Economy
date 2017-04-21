@@ -240,22 +240,22 @@ worth:
 #
 ##### start of special items
   inksack: #some are craftbables
-    '0': 3.3
-    '1': 0.58
-    '2': 6.93
-    '3': 5.5
-    '4': 3.3
-    '5': 2.04
-    '6': 5.37
-    '7': 2.38
-    '8': 2.74
-    '9': 1.31
-    '10': 4.65
-    '11': 0.58
-    '12': 2.74
-    '13': 1.76
-    '14': 0.61
-    '15': 1.93
+    '0': 3
+    '1': 1
+    '2': 7
+    '3': 6
+    '4': 3
+    '5': 2
+    '6': 5
+    '7': 2
+    '8': 3
+    '9': 1
+    '10': 5
+    '11': 1
+    '12': 3
+    '13': 2
+    '14': 1
+    '15': 2
   expbottle:
     '0': 385
   dragonsbreath:
@@ -335,64 +335,64 @@ worth:
 #
 ##### brewable items
   potion:
-    '0': 20.0 # water bottle
-    '8193': 106.92 # regn 0:45
-    '8194': 20.9 # speed 3:00
-    '8195': 45.56 # fire 3:00
-    '8196': 23.76 # poison 0:45
-    '8197': 29.69 # heal 1
-    '8198': 81.82 # night vision 3:00
-    '8200': 7.49 # weak 1:30
-    '8201': 80.93 # str 3:00
-    '8202': 53.33 # slowness 1:30
-    '8203': 424.55 # jump 3:00
-    '8204': 30.44 # harm 1
-    '8205': 26.07 # water 3:00
-    '8206': 91.4 # invis 3:00
-    '8225': 121.51 # regn 2
-    '8226': 31.19 # speed 2
-    '8228': 34.19 # poison 2
-    '8229': 40.42 # heal 2
-    '8233': 94.22 # str 2
-    '8235': 455.01 # jump 2
-    '8236': 41.2 # harm 2
-    '8257': 115.73 # regn 1:30
-    '8258': 25.41 # speed 8:00
-    '8259': 51.31 # fire 8:00
-    '8260': 28.42 # poison 1:30
-    '8262': 89.38 # night 8:00
-    '8264': 11.23 # weak 4:00
-    '8265': 88.45 # str 8:00
-    '8266': 59.36 # slow 4:00
-    '8269': 30.84 # water 8:00
-    '8270': 99.43 # invis 8:00
-    '16385': 123.82 # splash regen 0:45
-    '16386': 33.5 # splash speed 3:00
-    '16387': 59.39 # splash fire resist 3:00
-    '16388': 36.5 # splash poison 0:45
-    '16389': 42.73 # splash healing
-    '16390': 97.46 # splash night vision
-    '16392': 19.42 # splash weakness 1:30
-    '16393': 96.53 # splash strength 3:00
-    '16394': 67.54 # splash slowness 1:30
-    '16395': 457.32 # splash leaping 3:00
-    '16396': 43.51 # splash harming
-    '16397': 38.93 # splash water breathing 3:00
-    '16398': 107.52 # splash invisibility 3:00
-    '16417': 139.13 # splash regen II 0:22
-    '16418': 44.3 # splash speed II 1:30
-    '16420': 47.45 # splash poison II 0:21
-    '16421': 53.99 # splash healing II
-    '16425': 110.48 # splash strength II 1:30
-    '16427': 489.32 # splash leaping II 1:30
-    '16428': 54.81 # splash harming II
-    '16449': 133.07 # splash regen 1:30
-    '16450': 38.23 # splash swiftness 8:00
-    '16451': 65.42 # splash fire resist 8:00
-    '16452': 41.39 # splash poison 1:30
-    '16454': 105.39 # splash night vision 8:00
-    '16456': 23.34 # splash weakness 4:00
-    '16457': 104.42 # splash strength 8:00
-    '16458': 73.88 # splash slowness 4:00
-    '16461': 38.93 # splash water breathing 8:00
-    '16462': 115.96 # splash invisibility 8:00
+    '0': 20 # water bottle
+    '8193': 106 # regn 0:45
+    '8194': 20 # speed 3:00
+    '8195': 45 # fire 3:00
+    '8196': 23 # poison 0:45
+    '8197': 29 # heal 1
+    '8198': 81 # night vision 3:00
+    '8200': 7 # weak 1:30
+    '8201': 80 # str 3:00
+    '8202': 53 # slowness 1:30
+    '8203': 424 # jump 3:00
+    '8204': 30 # harm 1
+    '8205': 26 # water 3:00
+    '8206': 91 # invis 3:00
+    '8225': 121 # regn 2
+    '8226': 31 # speed 2
+    '8228': 34 # poison 2
+    '8229': 40 # heal 2
+    '8233': 94 # str 2
+    '8235': 455 # jump 2
+    '8236': 41 # harm 2
+    '8257': 115 # regn 1:30
+    '8258': 25 # speed 8:00
+    '8259': 51 # fire 8:00
+    '8260': 28 # poison 1:30
+    '8262': 89 # night 8:00
+    '8264': 11 # weak 4:00
+    '8265': 88 # str 8:00
+    '8266': 59 # slow 4:00
+    '8269': 30 # water 8:00
+    '8270': 99 # invis 8:00
+    '16385': 123 # splash regen 0:45
+    '16386': 33 # splash speed 3:00
+    '16387': 59 # splash fire resist 3:00
+    '16388': 36 # splash poison 0:45
+    '16389': 42 # splash healing
+    '16390': 97 # splash night vision
+    '16392': 19 # splash weakness 1:30
+    '16393': 96 # splash strength 3:00
+    '16394': 67 # splash slowness 1:30
+    '16395': 457 # splash leaping 3:00
+    '16396': 43 # splash harming
+    '16397': 38 # splash water breathing 3:00
+    '16398': 107 # splash invisibility 3:00
+    '16417': 139 # splash regen II 0:22
+    '16418': 44 # splash speed II 1:30
+    '16420': 47 # splash poison II 0:21
+    '16421': 53 # splash healing II
+    '16425': 110 # splash strength II 1:30
+    '16427': 489 # splash leaping II 1:30
+    '16428': 54 # splash harming II
+    '16449': 133 # splash regen 1:30
+    '16450': 38 # splash swiftness 8:00
+    '16451': 65 # splash fire resist 8:00
+    '16452': 41 # splash poison 1:30
+    '16454': 105 # splash night vision 8:00
+    '16456': 23 # splash weakness 4:00
+    '16457': 104 # splash strength 8:00
+    '16458': 73 # splash slowness 4:00
+    '16461': 38 # splash water breathing 8:00
+    '16462': 115 # splash invisibility 8:00
