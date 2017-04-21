@@ -304,33 +304,33 @@ worth:
     '92': 75000 #cow
     '93': 65000 #chicken
     '95': 75000 #wolf
-    '120': -1 #villager
-    '103': -1 #llama
-    '102': -1 #polar bear
-    '101': -1 #rabbit
-    '100': -1 #horse
-    '99': -1 #irongolem
-    '98': -1 #ocelot
-    '97': -1 #snowman
-    '96': -1 #mooshroom
-    '94': -1 #squid
-    '60': -1 #silverfish
-    '62': -1 #magma cube
-    '65': -1 #bat
-    '66': -1 #witch
-    '67': -1 #endermite
-    '69': -1 #shulker
-    '4': -1 #elder guardian
-    '5': -1 #wither skeleton
-    '6': -1 #stray
-    '23': -1 #husk
-    '35': -1 #vex
-    '36': -1 #vindicator
-    '27': -1 #zombie villager
-    '28': -1 #skeleton horse
-    '29': -1 #zombie horse
-    '31': -1 #donkey
-    '32': -1 #mule
+    '120': 50000 #villager
+    '103': 75000 #llama
+    '102': 60000 #polar bear
+    '101': 60000 #rabbit
+    '100': 75000 #horse
+    '99': 1000000 #irongolem
+    '98': 50000 #ocelot
+    '97': 65000 #snowman
+    '96': 90000 #mooshroom
+    '94': 275000 #squid
+    '60': 50000 #silverfish
+    '62': 275000 #magma cube
+    '65': 50000 #bat
+    '66': 325000 #witch
+    '67': 50000 #endermite
+    '69': 500000 #shulker
+    '4': 90000 #elder guardian
+    '5': 125000 #wither skeleton
+    '6': 105000 #stray
+    '23': 90000 #husk
+    '35': 50000 #vex
+    '36': 500000 #vindicator
+    '27': 90000 #zombie villager
+    '28': 95000 #skeleton horse
+    '29': 90000 #zombie horse
+    '31': 75000 #donkey
+    '32': 75000 #mule
 ##### end of special items
 #
 ##### brewable items
