@@ -1,248 +1,241 @@
 worth:
 ##### start of block drops
   stone:
-    '0': 2.31
-    '1': 1.1
-    '3': 1.1
-    '5': 1.1
+    '0': 2
+    '1': 1
+    '3': 1
+    '5': 1
   grass:
-    '0': 1.1
+    '0': 1
   dirt:
-    '0': 0.55
-    '1': 0.58
-    '2': 2.75
+    '0': 1
+    '1': 1
+    '2': 3
   cobblestone:
-    '0': 1.1
+    '0': 1
   gravel:
-    '0': 0.55
+    '0': 1
   sponge:
-    '0': 12.71
-    '1': 11.0
+    '0': 13
+    '1': 11
   ice:
-    '0': 7.7
+    '0': 8
   soulsand:
-    '0': 11.0
+    '0': 11
   mycel:
-    '0': 11.0
+    '0': 11
   waterlily:
-    '0': 3.3
+    '0': 3
   enderstone:
-    '0': 11.0
+    '0': 11
   packedice:
-    '0': 16.5
+    '0': 16
   coal: #charcoal smeltable from logs
-    '0': 8.8
-    '1': 12.71
+    '0': 10
+    '1': 12
   sand:
-    '0': 0.55
-    '1': 1.65
+    '0': 1
+    '1': 2
   glass: #smelted from sand    
-    '0': 1.73
+    '0': 3
   netherrack:
-    '0': 5.5
+    '0': 5
   netherbrickitem: #smelted from netherrack
-    '0': 6.93
+    '0': 7
   ironingot: #smelted from ore(ore is not sellable)
-    '0': 18.48
+    '0': 18
   goldingot: #smelted from ore(ore is not sellable)
-    '0': 58.91
+    '0': 58
   diamond:
-    '0': 550.0
+    '0': 550
   emerald:
-    '0': 55.0
+    '0': 55
   quartz:
-    '0': 19.25
+    '0': 19
   flint:
-    '0': 0.55
+    '0': 1
   waterbucket:
-    '0': 61.41
+    '0': 61
   lavabucket:
-    '0': 62.28
+    '0': 62
   redstone: #+witch drop
-    '0': 3.3
+    '0': 3
   glowstonedust: #+witch drop  
-    '0': 8.8
+    '0': 8
   snowball: #+snowgolem drop
-    '0': 1.1
+    '0': 1
   clay:
-    '0': 3.3
+    '0': 3
   obsidian:
     '0': 43
   coalblock:
-    '0': 43
+    '0': 90
   ironblock:
-    '0': 43
+    '0': 162
   goldblock:
-    '0': 43
+    '0': 522
   diamondblock:
-    '0': 43
+    '0': 4950
   emeraldblock:
-    '0': 43
+    '0': 495
   redstoneblock:
-    '0': 43
+    '0': 27
 ##### end of block drops
 #
 ##### start of mob drops
   pork:
-    '0': 4.4
+    '0': 4
   grilledpork: #smelted from pork
-    '0': 5.78
+    '0': 6
   rawfish:
-    '0': 3.3
-    '1': 3.58
-    '2': 1.65
-    '3': 5.5
+    '0': 3
+    '1': 4
+    '2': 2
+    '3': 6
   cookedfish: #smelted from fish
-    '0': 4.62
-    '1': 4.91
+    '0': 5
+    '1': 5
   rabbit:
-    '0': 1.65
+    '0': 2
   cookedrabbit: #smelted from rabbit
-    '0': 2.89
+    '0': 3
   rawbeef:
-    '0': 5.5
+    '0': 5
   cookedbeef: #smelted from beef
-    '0': 6.93
+    '0': 7
   rawchicken:
-    '0': 2.75
+    '0': 3
   cookedchicken: #smelted from chicken
-    '0': 4.04
+    '0': 4
   wool:
-    '0': 5.5
+    '0': 6
   mutton:
-    '0': 1.1
+    '0': 3
   cookedmutton: #smelted from mutton
-    '0': 2.31
+    '0': 4
   string:
-    '0': 1.65
+    '0': 2
   feather:
-    '0': 0.55
+    '0': 1
   sulphur:
-    '0': 11.0
+    '0': 11
   leather:
-    '0': 5.25
+    '0': 5
   slimeball:
-    '0': 11.0
+    '0': 11
   egg:
-    '0': 0.55
+    '0': 1
   bone:
-    '0': 5.5
+    '0': 5
   rottenflesh:
-    '0': 1.1
+    '0': 1
   enderpearl:
-    '0': 55.0
+    '0': 55
   blazerod:
-    '0': 110.0
+    '0': 110
   ghasttear:
-    '0': 82.5
+    '0': 83
   spidereye:
-    '0': 3.3
+    '0': 3
   prismarineeshard:
-    '0': 5.5
+    '0': 5
   prismarinecrystals:
-    '0': 8.25
+    '0': 8
   rabbitfoot:
-    '0': 22.0
+    '0': 22
 ##### end of mob drops
 #
 ##### start of growable items
   potatoitem:
-    '0': 0.55
+    '0': 1
   bakedpotato: #smelted from potato
-    '0': 1.73
+    '0': 3
   carrotitem: #+rare zombie drop
-    '0': 0.83
+    '0': 1
   chorusfruit:
-    '0': 5.5
+    '0': 5
   chorusfruitpopped: #smelted from chorusfruit
-    '0': 6.93
+    '0': 7
   sapling:
-    '0': 5.5
-    '1': 5.5
-    '2': 5.5
-    '3': 5.5
-    '4': 5.5
-    '5': 5.5
+    '0': 5
+    '1': 5
+    '2': 5
+    '3': 5
+    '4': 5
+    '5': 5
   log:
-    '0': 11.0
-    '1': 11.0
-    '2': 11.0
-    '3': 11.0
-    '4': 11.0
-    '5': 11.0
+    '0': 11
+    '1': 11
+    '2': 11
+    '3': 11
+    '4': 11
+    '5': 11
   log2:
-    '0': 11.0
-    '1': 11.0
+    '0': 11
+    '1': 11
   leaves:
-    '0': 2.2
-    '1': 2.2
-    '2': 2.2
-    '3': 2.2
-    '4': 2.2
-    '5': 2.2
+    '0': 2
+    '1': 2
+    '2': 2
+    '3': 2
+    '4': 2
+    '5': 2
   leaves2:
-    '0': 2.2
-    '1': 2.2
+    '0': 2
+    '1': 2
   apple:
-    '0': 3.3
-  longgrass:
-    '1': 0.01
-    '2': 0.01
-  deadbush:
-    '0': 0.01
+    '0': 3
   yellowflower:
-    '0': 1.32
+    '0': 1
   redrose:
-    '0': 1.1
-    '1': 1.1
-    '2': 5.5
-    '3': 1.93
-    '4': 1.93
-    '5': 1.93
-    '6': 1.93
-    '7': 1.93
-    '8': 1.65
+    '0': 1
+    '1': 1
+    '2': 5
+    '3': 2
+    '4': 2
+    '5': 2
+    '6': 2
+    '7': 2
+    '8': 2
   doubleplant:
-    '0': 3.3
-    '1': 2.75
-    '2': 0.01
-    '3': 0.01
-    '4': 1.1
-    '5': 1.1
+    '0': 3
+    '1': 3
+    '4': 1
+    '5': 1
   brownmushroom:
-    '0': 1.1
+    '0': 1
   redmushroom:
-    '0': 1.1
+    '0': 1
   cactus:
-    '0': 5.5
+    '0': 5
   pumpkinseeds:
-    '0': 16.5
+    '0': 16
   pumpkin:
-    '0': 11.0
+    '0': 11
   hugemushroom1:
-    '0': 2.2
+    '0': 2
   hugemushroom2:
-    '0': 2.2
+    '0': 2
   melonseeds:
-    '0': 16.5
+    '0': 16
   melon:
-    '0': 1.65
+    '0': 2
   vine:
-    '0': 5.5
+    '0': 5
   sugarcane:
-    '0': 0.55
+    '0': 1
   chorusflower:
-    '0': 27.5
+    '0': 27
   netherstalk:
-    '0': 16.5
+    '0': 16
   seeds:
-    '0': 1.1
+    '0': 1
   wheat:
-    '0': 3.3
+    '0': 3
   beetroot:
-    '0': 0.66
+    '0': 3
   beetrootseeds:
-    '0': 0.22
+    '0': 1
 ##### end of growable items
 #
 ##### start of special items
@@ -264,45 +257,42 @@ worth:
     '14': 0.61
     '15': 1.93
   expbottle:
-    '0': 385.0
+    '0': 385
   dragonsbreath:
-    '0': 110.0
+    '0': 110
   goldrecord:
-    '0': 132.0
+    '0': 132
   greenrecord:
-    '0': 132.0
+    '0': 132
   record3:
-    '0': 132.0
+    '0': 132
   record4:
-    '0': 132.0
+    '0': 132
   record5:
-    '0': 132.0
+    '0': 132
   record6:
-    '0': 132.0
+    '0': 132
   record7:
-    '0': 132.0
+    '0': 132
   record8:
-    '0': 132.0
+    '0': 132
   record9:
-    '0': 132.0
+    '0': 132
   record10:
-    '0': 132.0
+    '0': 132
   record11:
-    '0': 132.0
+    '0': 132
   record12:        
-    '0': 132.0
+    '0': 132
   hopper:
-    '0': 122.49
+    '0': 122
   beacon:
-    '0': 122.49
+    '0': 122
 ##### end of special items
 #
 ##### brewable items
   potion:
     '0': 20.0 # water bottle
-    '16': 19.33 # unknown
-    '32': 11.25 # unknown
-    '64': 5.47 # unknwon
     '8193': 106.92 # regn 0:45
     '8194': 20.9 # speed 3:00
     '8195': 45.56 # fire 3:00
@@ -333,33 +323,33 @@ worth:
     '8266': 59.36 # slow 4:00
     '8269': 30.84 # water 8:00
     '8270': 99.43 # invis 8:00
-    '16385': 123.82 #
-    '16386': 33.5 #
-    '16387': 59.39 #
-    '16388': 36.5 #
-    '16389': 42.73 #
-    '16390': 97.46 #
-    '16392': 19.42 #
-    '16393': 96.53 #
-    '16394': 67.54 #
-    '16395': 457.32 #
-    '16396': 43.51 #
-    '16397': 38.93 #
-    '16398': 107.52 #
-    '16417': 139.13 #
-    '16418': 44.3 #
-    '16420': 47.45 #
-    '16421': 53.99 #
-    '16425': 110.48 #
-    '16427': 489.32 #
-    '16428': 54.81 #
-    '16449': 133.07 #
-    '16450': 38.23 #
-    '16451': 65.42 #
-    '16452': 41.39 #
-    '16454': 105.39 #
-    '16456': 23.34 #
-    '16457': 104.42 #
-    '16458': 73.88 #
-    '16461': 38.93 #
-    '16462': 115.96 #
+    '16385': 123.82 # splash regen 0:45
+    '16386': 33.5 # splash speed 3:00
+    '16387': 59.39 # splash fire resist 3:00
+    '16388': 36.5 # splash poison 0:45
+    '16389': 42.73 # splash healing
+    '16390': 97.46 # splash night vision
+    '16392': 19.42 # splash weakness 1:30
+    '16393': 96.53 # splash strength 3:00
+    '16394': 67.54 # splash slowness 1:30
+    '16395': 457.32 # splash leaping 3:00
+    '16396': 43.51 # splash harming
+    '16397': 38.93 # splash water breathing 3:00
+    '16398': 107.52 # splash invisibility 3:00
+    '16417': 139.13 # splash regen II 0:22
+    '16418': 44.3 # splash speed II 1:30
+    '16420': 47.45 # splash poison II 0:21
+    '16421': 53.99 # splash healing II
+    '16425': 110.48 # splash strength II 1:30
+    '16427': 489.32 # splash leaping II 1:30
+    '16428': 54.81 # splash harming II
+    '16449': 133.07 # splash regen 1:30
+    '16450': 38.23 # splash swiftness 8:00
+    '16451': 65.42 # splash fire resist 8:00
+    '16452': 41.39 # splash poison 1:30
+    '16454': 105.39 # splash night vision 8:00
+    '16456': 23.34 # splash weakness 4:00
+    '16457': 104.42 # splash strength 8:00
+    '16458': 73.88 # splash slowness 4:00
+    '16461': 38.93 # splash water breathing 8:00
+    '16462': 115.96 # splash invisibility 8:00
