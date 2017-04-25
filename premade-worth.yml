@@ -1,3 +1,5 @@
+#sell prices, this is the amount of money you will get for selling this item to the server
+#buy pricing will be 4x the values listed here
 worth:
 ##### start of block drops
   stone:
@@ -288,49 +290,49 @@ worth:
     '0': 122
   beacon:
     '0': 122
-  spawner: #dont appear to actually work with /sell but here for buy pricing reference (everything else is sell pricing)
-    '90': 50000 #pig
-    '50': 400000 #creeper
-    '51': 95000 #skeleton
-    '52': 75000 #spider
-    '54': 90000 #zombie
-    '55': 1000000 #slime
-    '57': 500000 #zombiepigman
-    '58': 325000 #enderman
-    '59': 75000 #cave spider
-    '61': 275000 #blaze
-    '68': 75000 #guardian
-    '91': 50000 #sheep
-    '92': 75000 #cow
-    '93': 65000 #chicken
-    '95': 75000 #wolf
-    '120': 50000 #villager
-    '103': 75000 #llama
-    '102': 60000 #polar bear
-    '101': 60000 #rabbit
-    '100': 75000 #horse
-    '99': 1000000 #irongolem
-    '98': 50000 #ocelot
-    '97': 65000 #snowman
-    '96': 90000 #mooshroom
-    '94': 275000 #squid
-    '60': 50000 #silverfish
-    '62': 275000 #magma cube
-    '65': 50000 #bat
-    '66': 325000 #witch
-    '67': 50000 #endermite
-    '69': 500000 #shulker
-    '4': 90000 #elder guardian
-    '5': 125000 #wither skeleton
-    '6': 105000 #stray
-    '23': 90000 #husk
-    '35': 50000 #vex
-    '36': 500000 #vindicator
-    '27': 90000 #zombie villager
+  spawner: #dont appear to actually work with /sell but here reference
+    '90': 12500 #50000 #pig
+    '50': 100000 #400000 #creeper
+    '51': 23750 #95000 #skeleton
+    '52': 18750 #75000 #spider
+    '54': 22500 #90000 #zombie
+    '55': 250000 #1000000 #slime
+    '57': 125000 #500000 #zombiepigman
+    '58': 81250 #325000 #enderman
+    '59': 18750 #75000 #cave spider
+    '61': 68750 #275000 #blaze
+    '68': 18750 #75000 #guardian
+    '91': 12500 #50000 #sheep
+    '92': 18750 #75000 #cow
+    '93': 16250 #65000 #chicken
+    '95': 18750 #75000 #wolf
+    '120': 12500 #50000 #villager
+    '103': 18750 #75000 #llama
+    '102': 15000 #60000 #polar bear
+    '101': 15000 #60000 #rabbit
+    '100': 18750 #75000 #horse
+    '99': 250000 #1000000 #irongolem
+    '98': 12500 #50000 #ocelot
+    '97': 16250 #65000 #snowman
+    '96': 22500 #90000 #mooshroom
+    '94': 68750 #275000 #squid
+    '60': 12500 #50000 #silverfish
+    '62': 68750 #275000 #magma cube
+    '65': 12500 #50000 #bat
+    '66': 81250 #325000 #witch
+    '67': 12500 #50000 #endermite
+    '69': 125000 #500000 #shulker
+    '4': 22500 #90000 #elder guardian
+    '5': 31250 #125000 #wither skeleton
+    '6': 26250 #105000 #stray
+    '23': 22500 #90000 #husk
+    '35': 12500 #50000 #vex
+    '36': 125000 #500000 #vindicator
+    '27': 22500 #90000 #zombie villager
     '28': 95000 #skeleton horse
-    '29': 90000 #zombie horse
-    '31': 75000 #donkey
-    '32': 75000 #mule
+    '29': 22500 #90000 #zombie horse
+    '31': 18750 #75000 #donkey
+    '32': 18750 #75000 #mule
 ##### end of special items
 #
 ##### brewable items
