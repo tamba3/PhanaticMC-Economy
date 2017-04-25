@@ -338,6 +338,7 @@ worth:
 ##### brewable items
   potion:
     '0': 20 # water bottle
+#level 1 drinkable potions
     '8193': 106 # regn 0:45
     '8194': 20 # speed 3:00
     '8195': 45 # fire 3:00
@@ -351,6 +352,7 @@ worth:
     '8204': 30 # harm 1
     '8205': 26 # water 3:00
     '8206': 91 # invis 3:00
+#level 2 drinkable potions
     '8225': 121 # regn 2
     '8226': 31 # speed 2
     '8228': 34 # poison 2
@@ -358,6 +360,7 @@ worth:
     '8233': 94 # str 2
     '8235': 455 # jump 2
     '8236': 41 # harm 2
+#extended drinkable potions
     '8257': 115 # regn 1:30
     '8258': 25 # speed 8:00
     '8259': 51 # fire 8:00
@@ -368,6 +371,7 @@ worth:
     '8266': 59 # slow 4:00
     '8269': 30 # water 8:00
     '8270': 99 # invis 8:00
+#level 1 splash potions
     '16385': 123 # splash regen 0:45
     '16386': 33 # splash speed 3:00
     '16387': 59 # splash fire resist 3:00
@@ -381,6 +385,7 @@ worth:
     '16396': 43 # splash harming
     '16397': 38 # splash water breathing 3:00
     '16398': 107 # splash invisibility 3:00
+#level 2 splash potions
     '16417': 139 # splash regen II 0:22
     '16418': 44 # splash speed II 1:30
     '16420': 47 # splash poison II 0:21
@@ -388,6 +393,7 @@ worth:
     '16425': 110 # splash strength II 1:30
     '16427': 489 # splash leaping II 1:30
     '16428': 54 # splash harming II
+#extended splash potions
     '16449': 133 # splash regen 1:30
     '16450': 38 # splash swiftness 8:00
     '16451': 65 # splash fire resist 8:00
