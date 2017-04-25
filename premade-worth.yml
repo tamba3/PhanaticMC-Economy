@@ -4,62 +4,62 @@ worth:
 ##### start of block drops
   stone:
     '0': 2
-    '1': 1
-    '3': 1
-    '5': 1
+    '1': 2
+    '3': 2
+    '5': 2
   grass:
     '0': 1
   dirt:
     '0': 1
     '1': 1
-    '2': 3
+    '2': 1
   cobblestone:
     '0': 1
   gravel:
-    '0': 1
+    '0': 2
   sponge:
-    '0': 13
-    '1': 11
+    '0': 32
+    '1': 32
   ice:
     '0': 8
   soulsand:
-    '0': 11
+    '0': 4
   mycel:
-    '0': 11
+    '0': 1
   waterlily:
-    '0': 3
+    '0': 1
   enderstone:
-    '0': 11
+    '0': 4
   packedice:
-    '0': 16
+    '0': 20
   coal: #charcoal smeltable from logs
-    '0': 10
-    '1': 12
+    '0': 4
+    '1': 8
   sand:
     '0': 1
-    '1': 2
+    '1': 1
   glass: #smelted from sand    
-    '0': 3
+    '0': 2
   netherrack:
     '0': 1
   netherbrickitem: #smelted from netherrack
-    '0': 7
+    '0': 1
   ironingot: #smelted from ore(ore is not sellable) also iron golem drop
     '0': 18
   goldingot: #smelted from ore(ore is not sellable) also pigman drop
-    '0': 58
+    '0': 27
   diamond:
-    '0': 550
+    '0': 180
   emerald: #also vindicator drop
-    '0': 55
+    '0': 90
   quartz:
-    '0': 19
+    '0': 7
   flint:
     '0': 3
   waterbucket:
-    '0': 61
+    '0': 48
   lavabucket:
-    '0': 62
+    '0': 48
   redstone: #+witch drop
     '0': 3
   glowstonedust: #+witch drop  
@@ -67,19 +67,19 @@ worth:
   snowball: #+snowgolem drop
     '0': 1
   clay:
-    '0': 3
+    '0': 1
   obsidian:
-    '0': 43
+    '0': 48
   coalblock:
     '0': 90
   ironblock:
     '0': 162
   goldblock:
-    '0': 522
+    '0': 243
   diamondblock:
-    '0': 4950
+    '0': 1620
   emeraldblock:
-    '0': 495
+    '0': 810
   redstoneblock:
     '0': 27
 ##### end of block drops
@@ -155,38 +155,38 @@ worth:
   carrotitem: #+rare zombie drop
     '0': 1
   chorusfruit:
-    '0': 5
+    '0': 4
   chorusfruitpopped: #smelted from chorusfruit
-    '0': 7
+    '0': 6
   sapling:
-    '0': 5
-    '1': 5
-    '2': 5
-    '3': 5
-    '4': 5
-    '5': 5
-  log:
-    '0': 11
-    '1': 11
-    '2': 11
-    '3': 11
-    '4': 11
-    '5': 11
-  log2:
-    '0': 11
-    '1': 11
-  leaves:
     '0': 2
     '1': 2
     '2': 2
     '3': 2
     '4': 2
     '5': 2
+  log:
+    '0': 6
+    '1': 6
+    '2': 6
+    '3': 6
+    '4': 6
+    '5': 6
+  log2:
+    '0': 6
+    '1': 6
+  leaves:
+    '0': 1
+    '1': 1
+    '2': 1
+    '3': 1
+    '4': 1
+    '5': 1
   leaves2:
-    '0': 2
-    '1': 2
+    '0': 1
+    '1': 1
   apple:
-    '0': 3
+    '0': 2
   yellowflower:
     '0': 1
   redrose:
@@ -209,25 +209,25 @@ worth:
   redmushroom:
     '0': 1
   cactus:
-    '0': 5
+    '0': 2
   pumpkinseeds:
-    '0': 16
+    '0': 4
   pumpkin:
-    '0': 11
+    '0': 16
   hugemushroom1:
     '0': 2
   hugemushroom2:
     '0': 2
   melonseeds:
-    '0': 16
+    '0': 3
   melon:
-    '0': 2
+    '0': 3
   vine:
-    '0': 5
+    '0': 4
   sugarcane:
-    '0': 1
+    '0': 3
   chorusflower:
-    '0': 27
+    '0': 15
   netherstalk:
     '0': 16
   seeds:
@@ -286,10 +286,8 @@ worth:
     '0': 132
   record12:        
     '0': 132
-  hopper:
-    '0': 122
-  beacon:
-    '0': 122
+  hopper: # hopper non-craftable
+    '0': 500
   spawner: #dont appear to actually work with /sell but here reference
     '90': 12500 #50000 #pig
     '50': 100000 #400000 #creeper
