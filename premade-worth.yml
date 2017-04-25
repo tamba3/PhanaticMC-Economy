@@ -39,12 +39,12 @@ worth:
   glass: #smelted from sand    
     '0': 3
   netherrack:
-    '0': 5
+    '0': 1
   netherbrickitem: #smelted from netherrack
     '0': 7
-  ironingot: #smelted from ore(ore is not sellable)
+  ironingot: #smelted from ore(ore is not sellable) also iron golem drop
     '0': 18
-  goldingot: #smelted from ore(ore is not sellable)
+  goldingot: #smelted from ore(ore is not sellable) also pigman drop
     '0': 58
   diamond:
     '0': 550
@@ -53,7 +53,7 @@ worth:
   quartz:
     '0': 19
   flint:
-    '0': 1
+    '0': 3
   waterbucket:
     '0': 61
   lavabucket:
@@ -130,11 +130,11 @@ worth:
   rottenflesh:
     '0': 1
   enderpearl:
-    '0': 55
+    '0': 15
   blazerod:
-    '0': 110
+    '0': 10
   ghasttear:
-    '0': 83
+    '0': 30
   spidereye:
     '0': 3
   prismarineeshard:
@@ -288,7 +288,7 @@ worth:
     '0': 122
   beacon:
     '0': 122
-  spawner: #dont appear to actually work with /sell but here for reference
+  spawner: #dont appear to actually work with /sell but here for buy pricing reference (everything else is sell pricing)
     '90': 50000 #pig
     '50': 400000 #creeper
     '51': 95000 #skeleton
