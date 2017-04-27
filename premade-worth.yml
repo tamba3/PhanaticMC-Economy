@@ -239,22 +239,22 @@ worth:
 #
 ##### start of special items
   inksack: #some are craftbables
-    '0': 3
-    '1': 1
-    '2': 7
-    '3': 6
-    '4': 3
-    '5': 2
-    '6': 5
-    '7': 2
-    '8': 3
-    '9': 1
-    '10': 5
-    '11': 1
-    '12': 3
-    '13': 2
-    '14': 1
-    '15': 2
+    '0': 3 #ink sack, squid drop
+    '1': -1 #rose red
+    '2': -1 #cactus green
+    '3': 6 #cocoa beans
+    '4': 3 #lapis lazuli
+    '5': -1 #purple dye
+    '6': -1 #cyan dye
+    '7': -1 #light gray
+    '8': -1 #gray dye
+    '9': -1 #pink dye
+    '10': -1 #lime dye
+    '11': -1 #dandelion yellow
+    '12': -1 #light blue dye
+    '13': -1 #magenta dye
+    '14': -1 #orange dye
+    '15': -1 #bone meal
   goldrecord:
     '0': 132
   greenrecord:
