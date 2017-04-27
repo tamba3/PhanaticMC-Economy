@@ -131,7 +131,7 @@ worth:
   enderpearl:
     '0': 15
   blazerod:
-    '0': 10
+    '0': 20
   ghasttear:
     '0': 30
   spidereye:
@@ -255,10 +255,6 @@ worth:
     '13': 2
     '14': 1
     '15': 2
-  expbottle:
-    '0': 385
-  dragonsbreath:
-    '0': 110
   goldrecord:
     '0': 132
   greenrecord:
