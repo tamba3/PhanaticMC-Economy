@@ -79,6 +79,8 @@ worth:
     '0': 315
   redstoneblock:
     '0': 27
+  lapisblock:
+    '0': 27
 ##### end of block drops
 #
 ##### start of mob drops
