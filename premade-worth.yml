@@ -48,7 +48,7 @@ worth:
   diamond:
     '0': 180
   emerald: #also vindicator drop
-    '0': 90
+    '0': 35
   quartz:
     '0': 7
   flint:
@@ -76,7 +76,7 @@ worth:
   diamondblock:
     '0': 1620
   emeraldblock:
-    '0': 810
+    '0': 315
   redstoneblock:
     '0': 27
 ##### end of block drops
