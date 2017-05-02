@@ -1,0 +1,17 @@
+ShopName: Shop
+DisplayName: '&9&lShop'
+Command: shop
+signs:
+  text: '[Shop]'
+  NeedPermissionToCreateSign: true
+shop:
+  stone:
+    Layout: layout_shop
+    Item: 'STONE:0'
+    Worth: '2'
+    Name: Stone
+  grass:
+    Layout: layout_shop
+    Item: 'GRASS:0'
+    Worth: '1'
+    Name: Grass Block
